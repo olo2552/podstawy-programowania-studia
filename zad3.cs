@@ -1,7 +1,7 @@
 using System;
 
 //jen, bat, forint, kuna
-namespace Zad2
+namespace Zad3
 {
     class Program
     {
