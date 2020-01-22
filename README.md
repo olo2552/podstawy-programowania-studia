@@ -1,4 +1,4 @@
-# podstawy-programowania-studia
+# podstawy-programowania Higher Banking School
 
 Na nieszczęście Coach wysyła maile wierszowane,
 Podjąłem rękawicę- choć README pokiereszowane.
